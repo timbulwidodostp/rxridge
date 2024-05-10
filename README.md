@@ -1,6 +1,8 @@
 # rxridge
 Generalized ridge regression Use rxridge With STATA 18
 
+https://www.youtube.com/watch?v=npUW8uS6kx8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
